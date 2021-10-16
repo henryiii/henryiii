@@ -31,7 +31,7 @@ Python [CPU](https://github.com/henryiii/python-performance-minicourse),
 [cibuildwheel](https://cibuildwheel.readthedocs.io) &bullet;
 [build](https://pypa-build.readthedocs.io) &bullet;
 [scikit-build](https://github.com/scikit-build/scikit-build)
-  ([cmake](gvhttps://github.com/scikit-build/cmake-python-distributions),
+  ([cmake](https://github.com/scikit-build/cmake-python-distributions),
    [ninja](https://github.com/scikit-build/ninja-python-distributions)) &bullet;
 [boost-histogram](https://github.com/scikit-hep/boost-histogram) &bullet;
 [Hist](https://github.com/scikit-hep/hist) &bullet;
