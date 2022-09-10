@@ -52,6 +52,7 @@ Python [CPU](https://github.com/henryiii/python-performance-minicourse), [GPU](h
 
 #### My sites
 
+[ISciNumPy](https://iscinumpy.gitlab.io) &bullet;
 [IRIS-HEP](https://iris-hep.org) &bullet;
 [Scikit-HEP](https://scikit-hep.org) ([Developer pages](https://scikit-hep.org/developer)) &bullet;
 [CLARIPHY](https://clariphy.org)
