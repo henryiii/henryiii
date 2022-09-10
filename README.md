@@ -1,16 +1,16 @@
 #### Favorite posts and series
 
-[C++](/tags/cppxx)&nbsp;[11](/post/cpp-11)&nbsp;[14](/post/cpp-14)&nbsp;[17](/post/cpp-17)&nbsp;[20](/post/cpp-20) &bullet;
-[macOS&nbsp;Setup](/post/setup-a-new-mac) [(AS)](/post/setup-apple-silicon) &bullet;
-[Azure&nbsp;DevOps](/categories/azure-devops) ([Python&nbsp;Wheels](/post/azure-devops-python-wheels)) &bullet;
-[Conda-Forge&nbsp;ROOT](/post/root-conda) &bullet;
-[CLI11](/tags/cli11) &bullet;
-[GooFit](/tags/goofit) &bullet;
-[cibuildwheel](/tags/cibuildwheel) &bullet;
-[Hist](/tags/hist) &bullet;
-[Python&nbsp;Bindings](/tags/bindings) &bullet;
-[Python&nbsp;2&rarr;3](/post/python-3-upgrade), [3.8](/post/python-38),&nbsp;[3.10](/post/python-310),&nbsp;[3.11](/post/python-311) &bullet;
-[SSH](/post/setting-up-ssh-forwarding/)
+[C++](https://iscinumpy.gitlab.io/tags/cppxx)&nbsp;[11](https://iscinumpy.gitlab.io/post/cpp-11)&nbsp;[14](https://iscinumpy.gitlab.io/post/cpp-14)&nbsp;[17](https://iscinumpy.gitlab.io/post/cpp-17)&nbsp;[20](https://iscinumpy.gitlab.io/post/cpp-20) &bullet;
+[macOS&nbsp;Setup](https://iscinumpy.gitlab.io/post/setup-a-new-mac) [(AS)](https://iscinumpy.gitlab.io/post/setup-apple-silicon) &bullet;
+[Azure&nbsp;DevOps](https://iscinumpy.gitlab.io/categories/azure-devops) ([Python&nbsp;Wheels](https://iscinumpy.gitlab.io/post/azure-devops-python-wheels)) &bullet;
+[Conda-Forge&nbsp;ROOT](https://iscinumpy.gitlab.io/post/root-conda) &bullet;
+[CLI11](https://iscinumpy.gitlab.io/tags/cli11) &bullet;
+[GooFit](https://iscinumpy.gitlab.io/tags/goofit) &bullet;
+[cibuildwheel](https://iscinumpy.gitlab.io/tags/cibuildwheel) &bullet;
+[Hist](https://iscinumpy.gitlab.io/tags/hist) &bullet;
+[Python&nbsp;Bindings](https://iscinumpy.gitlab.io/tags/bindings) &bullet;
+[Python&nbsp;2&rarr;3](https://iscinumpy.gitlab.io/post/python-3-upgrade), [3.8](https://iscinumpy.gitlab.io/post/python-38),&nbsp;[3.10](https://iscinumpy.gitlab.io/post/python-310),&nbsp;[3.11](https://iscinumpy.gitlab.io/post/python-311) &bullet;
+[SSH](https://iscinumpy.gitlab.io/post/setting-up-ssh-forwarding/)
 
 #### My classes and books
 
