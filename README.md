@@ -1,16 +1,16 @@
 #### Favorite posts and series
 
-[C++](https://iscinumpy.gitlab.io/tags/cppxx)&nbsp;[11](https://iscinumpy.gitlab.io/post/cpp-11)&nbsp;[14](https://iscinumpy.gitlab.io/post/cpp-14)&nbsp;[17](https://iscinumpy.gitlab.io/post/cpp-17)&nbsp;[20](https://iscinumpy.gitlab.io/post/cpp-20) &bullet;
-[macOS&nbsp;Setup](https://iscinumpy.gitlab.io/post/setup-a-new-mac) [(AS)](https://iscinumpy.gitlab.io/post/setup-apple-silicon) &bullet;
-[Azure&nbsp;DevOps](https://iscinumpy.gitlab.io/categories/azure-devops) ([Python&nbsp;Wheels](https://iscinumpy.gitlab.io/post/azure-devops-python-wheels)) &bullet;
-[Conda-Forge&nbsp;ROOT](https://iscinumpy.gitlab.io/post/root-conda) &bullet;
-[CLI11](https://iscinumpy.gitlab.io/tags/cli11) &bullet;
-[GooFit](https://iscinumpy.gitlab.io/tags/goofit) &bullet;
-[cibuildwheel](https://iscinumpy.gitlab.io/tags/cibuildwheel) &bullet;
-[Hist](https://iscinumpy.gitlab.io/tags/hist) &bullet;
-[Python&nbsp;Bindings](https://iscinumpy.gitlab.io/tags/bindings) &bullet;
-[Python&nbsp;2&rarr;3](https://iscinumpy.gitlab.io/post/python-3-upgrade), [3.8](https://iscinumpy.gitlab.io/post/python-38),&nbsp;[3.10](https://iscinumpy.gitlab.io/post/python-310),&nbsp;[3.11](https://iscinumpy.gitlab.io/post/python-311) &bullet;
-[SSH](https://iscinumpy.gitlab.io/post/setting-up-ssh-forwarding/)
+[C++](https://iscinumpy.dev/tags/cppxx)&nbsp;[11](https://iscinumpy.dev/post/cpp-11)&nbsp;[14](https://iscinumpy.dev/post/cpp-14)&nbsp;[17](https://iscinumpy.dev/post/cpp-17)&nbsp;[20](https://iscinumpy.dev/post/cpp-20) &bullet;
+[macOS&nbsp;Setup](https://iscinumpy.dev/post/setup-a-new-mac) [(AS)](https://iscinumpy.dev/post/setup-apple-silicon) &bullet;
+[Azure&nbsp;DevOps](https://iscinumpy.dev/categories/azure-devops) ([Python&nbsp;Wheels](https://iscinumpy.dev/post/azure-devops-python-wheels)) &bullet;
+[Conda-Forge&nbsp;ROOT](https://iscinumpy.dev/post/root-conda) &bullet;
+[CLI11](https://iscinumpy.dev/tags/cli11) &bullet;
+[GooFit](https://iscinumpy.dev/tags/goofit) &bullet;
+[cibuildwheel](https://iscinumpy.dev/tags/cibuildwheel) &bullet;
+[Hist](https://iscinumpy.dev/tags/hist) &bullet;
+[Python&nbsp;Bindings](https://iscinumpy.dev/tags/bindings) &bullet;
+[Python&nbsp;2&rarr;3](https://iscinumpy.dev/post/python-3-upgrade), [3.8](https://iscinumpy.dev/post/python-38),&nbsp;[3.10](https://iscinumpy.dev/post/python-310),&nbsp;[3.11](https://iscinumpy.dev/post/python-311) &bullet;
+[SSH](https://iscinumpy.dev/post/setting-up-ssh-forwarding/)
 
 #### My classes and books
 
@@ -52,7 +52,7 @@ Python [CPU](https://github.com/henryiii/python-performance-minicourse), [GPU](h
 
 #### My sites
 
-[ISciNumPy](https://iscinumpy.gitlab.io) &bullet;
+[ISciNumPy](https://iscinumpy.dev) &bullet;
 [IRIS-HEP](https://iris-hep.org) &bullet;
 [Scikit-HEP](https://scikit-hep.org) ([Developer pages](https://scikit-hep.org/developer)) &bullet;
 [CLARIPHY](https://clariphy.org)
