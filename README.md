@@ -16,7 +16,7 @@
 
 [Modern&nbsp;CMake](https://cliutils.gitlab.io/modern-cmake/) &bullet;
 [CompClass](https://henryiii.github.io/compclass) &bullet;
-[se-for-sci&nbsp;(WIP)](https://henryiii.github.io/se-for-sci)
+[se-for-sci](https://henryiii.github.io/se-for-sci)
 
 #### My workshops
 
@@ -30,7 +30,7 @@ Python [CPU](https://github.com/henryiii/python-performance-minicourse), [GPU](h
 [pybind11](https://pybind11.readthedocs.io) ([python_example](https://github.com/pybind/python_example), [cmake_example](https://github.com/pybind/cmake_example), [scikit_build_example](https://github.com/pybind/scikit_build_example)) &bullet;
 [cibuildwheel](https://cibuildwheel.readthedocs.io) &bullet;
 [build](https://pypa-build.readthedocs.io) &bullet;
-[scikit-build](https://github.com/scikit-build/scikit-build) ([cmake](https://github.com/scikit-build/cmake-python-distributions), [ninja](https://github.com/scikit-build/ninja-python-distributions)) &bullet;
+[scikit-build](https://github.com/scikit-build/scikit-build) ([core](https://github.com/scikit-build/scikit-build-core), [cmake](https://github.com/scikit-build/cmake-python-distributions), [ninja](https://github.com/scikit-build/ninja-python-distributions), [moderncmakedomain]()) &bullet;
 [boost-histogram](https://github.com/scikit-hep/boost-histogram) &bullet;
 [Hist](https://github.com/scikit-hep/hist) &bullet;
 [UHI](https://github.com/scikit-hep/uhi) &bullet;
@@ -47,8 +47,10 @@ Python [CPU](https://github.com/henryiii/python-performance-minicourse), [GPU](h
 [pytest&nbsp;GHA&nbsp;annotate-failures](https://github.com/utgwkk/pytest-github-actions-annotate-failures) &bullet;
 [uproot-browser](https://github.com/scikit-hep/uproot-browser) &bullet;
 [Scikit-HEP-repo-review](https://github.com/scikit-hep/repo-review) &bullet;
+[meson-python](https://github.com/mesonbuild/meson-python) &bullet;
 [flake8-errmsg](https://github.com/henryiii/flake8-errmsg) &bullet;
 [beautifulhugo](https://github.com/halogenica/beautifulhugo)
+
 
 #### My sites
 
