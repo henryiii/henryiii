@@ -49,7 +49,8 @@ Python [CPU](https://github.com/henryiii/python-performance-minicourse), [GPU](h
 [Scikit-HEP-repo-review](https://github.com/scikit-hep/repo-review) &bullet;
 [meson-python](https://github.com/mesonbuild/meson-python) &bullet;
 [flake8-errmsg](https://github.com/henryiii/flake8-errmsg) &bullet;
-[beautifulhugo](https://github.com/halogenica/beautifulhugo)
+[beautifulhugo](https://github.com/halogenica/beautifulhugo) &bullet;
+[check-sdist](https://github.com/henryiii/check-sdist)
 
 
 #### My sites
