@@ -9,7 +9,7 @@
 [cibuildwheel](https://iscinumpy.dev/tags/cibuildwheel) &bullet;
 [Hist](https://iscinumpy.dev/tags/hist) &bullet;
 [Python&nbsp;Bindings](https://iscinumpy.dev/tags/bindings) &bullet;
-[Python&nbsp;2&rarr;3](https://iscinumpy.dev/post/python-3-upgrade), [3.7](https://iscinumpy.dev/post/python-37),&nbsp;[3.8](https://iscinumpy.dev/post/python-38),&nbsp;[3.9](https://iscinumpy.dev/post/python-39),&nbsp;[3.10](https://iscinumpy.dev/post/python-310),&nbsp;[3.11](https://iscinumpy.dev/post/python-311) &bullet;
+[Python&nbsp;2&rarr;3](https://iscinumpy.dev/post/python-3-upgrade), [3.7](https://iscinumpy.dev/post/python-37),&nbsp;[3.8](https://iscinumpy.dev/post/python-38),&nbsp;[3.9](https://iscinumpy.dev/post/python-39),&nbsp;[3.10](https://iscinumpy.dev/post/python-310),&nbsp;[3.11](https://iscinumpy.dev/post/python-311),&nbsp;[3.12](https://iscinumpy.dev/post/python-312) &bullet;
 [SSH](https://iscinumpy.dev/post/setting-up-ssh-forwarding/)
 
 #### My classes and books
@@ -23,7 +23,7 @@
 [CMake&nbsp;Workshop](https://hsf-training.github.io/hsf-training-cmake-webpage/) &bullet;
 Python [CPU](https://github.com/henryiii/python-performance-minicourse), [GPU](https://github.com/henryiii/pygpu-minicourse), [Compiled](https://github.com/henryiii/python-compiled-minicourse) minicourses &bullet;
 [Level&nbsp;Up Your Python](https://henryiii.github.io/level-up-your-python) &bullet;
-[Packaging&nbsp;(WIP)](https://intersect-training.org/packaging/)
+[Packaging](https://intersect-training.org/packaging/)
 
 #### My projects
 
@@ -34,7 +34,8 @@ Python [CPU](https://github.com/henryiii/python-performance-minicourse), [GPU](h
 [boost-histogram](https://github.com/scikit-hep/boost-histogram) &bullet;
 [Hist](https://github.com/scikit-hep/hist) &bullet;
 [UHI](https://github.com/scikit-hep/uhi) &bullet;
-[Scikit-HEP/cookie](https://github.com/scikit-hep/cookie) &bullet;
+[Scientific-Python/cookie](https://github.com/scientific-python/cookie) &bullet;
+[repo-review](https://github.com/scientific-python/repo-review) &bullet;
 [Vector](https://github.com/scikit-hep/vector) &bullet;
 [CLI11](https://github.com/CLIUtils/CLI11) &bullet;
 [Plumbum](https://plumbum.readthedocs.io/en/latest) &bullet;
@@ -46,7 +47,6 @@ Python [CPU](https://github.com/henryiii/python-performance-minicourse), [GPU](h
 [Jekyll-Indico](https://github.com/iris-hep/jekyll-indico) &bullet;
 [pytest&nbsp;GHA&nbsp;annotate-failures](https://github.com/utgwkk/pytest-github-actions-annotate-failures) &bullet;
 [uproot-browser](https://github.com/scikit-hep/uproot-browser) &bullet;
-[Scikit-HEP-repo-review](https://github.com/scikit-hep/repo-review) &bullet;
 [meson-python](https://github.com/mesonbuild/meson-python) &bullet;
 [flake8-errmsg](https://github.com/henryiii/flake8-errmsg) &bullet;
 [beautifulhugo](https://github.com/halogenica/beautifulhugo) &bullet;
@@ -56,6 +56,8 @@ Python [CPU](https://github.com/henryiii/python-performance-minicourse), [GPU](h
 #### My sites
 
 [ISciNumPy](https://iscinumpy.dev) &bullet;
+[Scientific-Python Development Guide](https://learn.scientific-python.org/development)) &bullet;
 [IRIS-HEP](https://iris-hep.org) &bullet;
-[Scikit-HEP](https://scikit-hep.org) ([Developer pages](https://scikit-hep.org/developer)) &bullet;
+[Scikit-HEP](https://scikit-hep.org) &bullet;
+[Scientific-Python Development Guide](https://learn.scientific-python.org/development)) &bullet;
 [CLARIPHY](https://clariphy.org)
