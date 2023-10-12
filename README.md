@@ -49,10 +49,10 @@ Python [CPU](https://github.com/henryiii/python-performance-minicourse), [GPU](h
 [validate-pyproject](https://github.com/abravalheri/validate-pyproject) &bullet;
 [pytest&nbsp;GHA&nbsp;annotate-failures](https://github.com/utgwkk/pytest-github-actions-annotate-failures) &bullet;
 [flake8-errmsg](https://github.com/henryiii/flake8-errmsg) &bullet;
-[check-sdist](https://github.com/henryiii/check-sdist)
+[check-sdist](https://github.com/henryiii/check-sdist) &bullet;
 [beautifulhugo](https://github.com/halogenica/beautifulhugo) &bullet;
 [POVM](https://github.com/Princeton-Penn-Vents/princeton-penn-flowmeter) &bullet;
-[hypernewsviewer](https://github.com/henryiii/hypernewsviewer) &bullet;
+[hypernewsviewer](https://github.com/henryiii/hypernewsviewer)
 
 
 #### My sites
