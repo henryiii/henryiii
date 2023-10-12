@@ -34,23 +34,25 @@ Python [CPU](https://github.com/henryiii/python-performance-minicourse), [GPU](h
 [boost-histogram](https://github.com/scikit-hep/boost-histogram) &bullet;
 [Hist](https://github.com/scikit-hep/hist) &bullet;
 [UHI](https://github.com/scikit-hep/uhi) &bullet;
-[Scientific-Python/cookie](https://github.com/scientific-python/cookie) &bullet;
-[repo-review](https://github.com/scientific-python/repo-review) &bullet;
 [Vector](https://github.com/scikit-hep/vector) &bullet;
-[CLI11](https://github.com/CLIUtils/CLI11) &bullet;
-[Plumbum](https://plumbum.readthedocs.io/en/latest) &bullet;
 [GooFit](https://github.com/GooFit/GooFit) &bullet;
 [Particle](https://github.com/scikit-hep/particle) &bullet;
 [DecayLanguage](https://github.com/scikit-hep/decaylanguage) &bullet;
 [Conda-Forge&nbsp;ROOT](https://github.com/conda-forge/root-feedstock) &bullet;
-[POVM](https://github.com/Princeton-Penn-Vents/princeton-penn-flowmeter) &bullet;
 [Jekyll-Indico](https://github.com/iris-hep/jekyll-indico) &bullet;
-[pytest&nbsp;GHA&nbsp;annotate-failures](https://github.com/utgwkk/pytest-github-actions-annotate-failures) &bullet;
 [uproot-browser](https://github.com/scikit-hep/uproot-browser) &bullet;
+[Scientific-Python/cookie](https://github.com/scientific-python/cookie) &bullet;
+[repo-review](https://github.com/scientific-python/repo-review) &bullet;
+[CLI11](https://github.com/CLIUtils/CLI11) &bullet;
 [meson-python](https://github.com/mesonbuild/meson-python) &bullet;
+[Plumbum](https://plumbum.readthedocs.io/en/latest) &bullet;
+[validate-pyproject](https://github.com/abravalheri/validate-pyproject) &bullet;
+[pytest&nbsp;GHA&nbsp;annotate-failures](https://github.com/utgwkk/pytest-github-actions-annotate-failures) &bullet;
 [flake8-errmsg](https://github.com/henryiii/flake8-errmsg) &bullet;
-[beautifulhugo](https://github.com/halogenica/beautifulhugo) &bullet;
 [check-sdist](https://github.com/henryiii/check-sdist)
+[beautifulhugo](https://github.com/halogenica/beautifulhugo) &bullet;
+[POVM](https://github.com/Princeton-Penn-Vents/princeton-penn-flowmeter) &bullet;
+[hypernewsviewer](https://github.com/henryiii/hypernewsviewer) &bullet;
 
 
 #### My sites
