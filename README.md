@@ -1,6 +1,6 @@
 #### Favorite posts and series
 
-[C++](https://iscinumpy.dev/tags/cppxx)&nbsp;[11](https://iscinumpy.dev/post/cpp-11)&nbsp;[14](https://iscinumpy.dev/post/cpp-14)&nbsp;[17](https://iscinumpy.dev/post/cpp-17)&nbsp;[20](https://iscinumpy.dev/post/cpp-20) &bullet;
+[C++](https://iscinumpy.dev/tags/cppxx)&nbsp;[11](https://iscinumpy.dev/post/cpp-11)&nbsp;[14](https://iscinumpy.dev/post/cpp-14)&nbsp;[17](https://iscinumpy.dev/post/cpp-17)&nbsp;[20](https://iscinumpy.dev/post/cpp-20)&nbsp;[23](https://iscinumpy.dev/post/cpp-23) &bullet;
 [macOS&nbsp;Setup](https://iscinumpy.dev/post/setup-a-new-mac) [(AS)](https://iscinumpy.dev/post/setup-apple-silicon) &bullet;
 [Azure&nbsp;DevOps](https://iscinumpy.dev/categories/azure-devops) ([Python&nbsp;Wheels](https://iscinumpy.dev/post/azure-devops-python-wheels)) &bullet;
 [Conda-Forge&nbsp;ROOT](https://iscinumpy.dev/post/root-conda) &bullet;
