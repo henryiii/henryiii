@@ -31,6 +31,7 @@ Python [CPU](https://github.com/henryiii/python-performance-minicourse), [GPU](h
 [cibuildwheel](https://cibuildwheel.readthedocs.io) &bullet;
 [build](https://build.pypa.io) &bullet;
 [pipx](https://pipx.pypa.io) &bullet;
+[pyproject-metadata](https://github.com/pypa/pyproject-metadata) &bullet;
 [nox](https://nox.thea.codes) &bullet;
 [scikit-build](https://github.com/scikit-build/scikit-build) ([core](https://github.com/scikit-build/scikit-build-core), [cmake](https://github.com/scikit-build/cmake-python-distributions), [ninja](https://github.com/scikit-build/ninja-python-distributions), [moderncmakedomain]()) &bullet;
 [boost-histogram](https://github.com/scikit-hep/boost-histogram) &bullet;
