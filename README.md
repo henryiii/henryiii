@@ -9,7 +9,7 @@
 [cibuildwheel](https://iscinumpy.dev/tags/cibuildwheel) &bullet;
 [Hist](https://iscinumpy.dev/tags/hist) &bullet;
 [Python&nbsp;Bindings](https://iscinumpy.dev/tags/bindings) &bullet;
-[Python&nbsp;2&rarr;3](https://iscinumpy.dev/post/python-3-upgrade), [3.7](https://iscinumpy.dev/post/python-37),&nbsp;[3.8](https://iscinumpy.dev/post/python-38),&nbsp;[3.9](https://iscinumpy.dev/post/python-39),&nbsp;[3.10](https://iscinumpy.dev/post/python-310),&nbsp;[3.11](https://iscinumpy.dev/post/python-311),&nbsp;[3.12](https://iscinumpy.dev/post/python-312) &bullet;
+[Python&nbsp;2&rarr;3](https://iscinumpy.dev/post/python-3-upgrade), [3.7](https://iscinumpy.dev/post/python-37),&nbsp;[3.8](https://iscinumpy.dev/post/python-38),&nbsp;[3.9](https://iscinumpy.dev/post/python-39),&nbsp;[3.10](https://iscinumpy.dev/post/python-310),&nbsp;[3.11](https://iscinumpy.dev/post/python-311),&nbsp;[3.12](https://iscinumpy.dev/post/python-312),&nbsp;[3.13](https://iscinumpy.dev/post/python-313) &bullet;
 [SSH](https://iscinumpy.dev/post/setting-up-ssh-forwarding/)
 
 #### My classes and books
