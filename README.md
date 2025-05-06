@@ -30,6 +30,7 @@ Python [CPU](https://github.com/henryiii/python-performance-minicourse), [GPU](h
 [pybind11](https://pybind11.readthedocs.io) ([python_example](https://github.com/pybind/python_example), [cmake_example](https://github.com/pybind/cmake_example), [scikit_build_example](https://github.com/pybind/scikit_build_example)) &bullet;
 [cibuildwheel](https://cibuildwheel.readthedocs.io) &bullet;
 [build](https://build.pypa.io) &bullet;
+[packaging](https://packaging.pypa.io) &bullet;
 [pipx](https://pipx.pypa.io) &bullet;
 [pyproject-metadata](https://github.com/pypa/pyproject-metadata) &bullet;
 [nox](https://nox.thea.codes) &bullet;
