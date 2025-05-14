@@ -25,9 +25,7 @@ Python [CPU](https://github.com/henryiii/python-performance-minicourse), [GPU](h
 [Level&nbsp;Up Your Python](https://henryiii.github.io/level-up-your-python) &bullet;
 [Packaging](https://intersect-training.org/packaging/)
 
-#### My projects
-
-#### Python libraries
+#### My Python libraries
 [pybind11](https://pybind11.readthedocs.io) ([python_example](https://github.com/pybind/python_example), [cmake_example](https://github.com/pybind/cmake_example), [scikit_build_example](https://github.com/pybind/scikit_build_example)) &bullet;
 [cibuildwheel](https://cibuildwheel.readthedocs.io) &bullet;
 [build](https://build.pypa.io) &bullet;
@@ -55,7 +53,7 @@ Python [CPU](https://github.com/henryiii/python-performance-minicourse), [GPU](h
 [pytest&nbsp;GHA&nbsp;annotate-failures](https://github.com/utgwkk/pytest-github-actions-annotate-failures) &bullet;
 [Plumbum](https://plumbum.readthedocs.io/en/latest)
 
-#### Other projects
+#### My other projects
 
 [CLI11](https://github.com/CLIUtils/CLI11) &bullet;
 [beautifulhugo](https://github.com/halogenica/beautifulhugo) &bullet;
