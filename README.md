@@ -49,6 +49,7 @@ Python [CPU](https://github.com/henryiii/python-performance-minicourse), [GPU](h
 [repo-review](https://github.com/scientific-python/repo-review) &bullet;
 [validate-pyproject](https://github.com/abravalheri/validate-pyproject)(-[schema-store](https://github.com/henryiii/validate-pyproject-schema-store)) &bullet;
 [flake8-errmsg](https://github.com/henryiii/flake8-errmsg) &bullet;
+[flake8-lazy](https://github.com/henryiii/flake8-lazy) &bullet;
 [check-sdist](https://github.com/henryiii/check-sdist) &bullet;
 [pytest&nbsp;GHA&nbsp;annotate-failures](https://github.com/utgwkk/pytest-github-actions-annotate-failures) &bullet;
 [Plumbum](https://plumbum.readthedocs.io/en/latest)
