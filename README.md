@@ -1,16 +1,6 @@
 #### Favorite posts and series
 
-[C++](https://iscinumpy.dev/tags/cppxx)&nbsp;[11](https://iscinumpy.dev/post/cpp-11)&nbsp;[14](https://iscinumpy.dev/post/cpp-14)&nbsp;[17](https://iscinumpy.dev/post/cpp-17)&nbsp;[20](https://iscinumpy.dev/post/cpp-20)&nbsp;[23](https://iscinumpy.dev/post/cpp-23) &bullet;
-[macOS&nbsp;Setup](https://iscinumpy.dev/post/setup-a-new-mac) [(AS)](https://iscinumpy.dev/post/setup-apple-silicon) &bullet;
-[Azure&nbsp;DevOps](https://iscinumpy.dev/categories/azure-devops) ([Python&nbsp;Wheels](https://iscinumpy.dev/post/azure-devops-python-wheels)) &bullet;
-[Conda-Forge&nbsp;ROOT](https://iscinumpy.dev/post/root-conda) &bullet;
-[CLI11](https://iscinumpy.dev/tags/cli11) &bullet;
-[GooFit](https://iscinumpy.dev/tags/goofit) &bullet;
-[cibuildwheel](https://iscinumpy.dev/tags/cibuildwheel) &bullet;
-[Hist](https://iscinumpy.dev/tags/hist) &bullet;
-[Python&nbsp;Bindings](https://iscinumpy.dev/tags/bindings) &bullet;
-[Python&nbsp;2&rarr;3](https://iscinumpy.dev/post/python-3-upgrade), [3.7](https://iscinumpy.dev/post/python-37),&nbsp;[3.8](https://iscinumpy.dev/post/python-38),&nbsp;[3.9](https://iscinumpy.dev/post/python-39),&nbsp;[3.10](https://iscinumpy.dev/post/python-310),&nbsp;[3.11](https://iscinumpy.dev/post/python-311),&nbsp;[3.12](https://iscinumpy.dev/post/python-312),&nbsp;[3.13](https://iscinumpy.dev/post/python-313),&nbsp;[3.14](https://iscinumpy.dev/post/python-314) &bullet;
-[SSH](https://iscinumpy.dev/post/setting-up-ssh-forwarding/)
+[Python&nbsp;2&rarr;3](https://iscinumpy.dev/post/python-3-upgrade), [3.7](https://iscinumpy.dev/post/python-37),&nbsp;[3.8](https://iscinumpy.dev/post/python-38),&nbsp;[3.9](https://iscinumpy.dev/post/python-39),&nbsp;[3.10](https://iscinumpy.dev/post/python-310),&nbsp;[3.11](https://iscinumpy.dev/post/python-311),&nbsp;[3.12](https://iscinumpy.dev/post/python-312),&nbsp;[3.13](https://iscinumpy.dev/post/python-313),&nbsp;[3.14](https://iscinumpy.dev/post/python-314),&nbsp;[3.15](https://iscinumpy.dev/post/python-315) &bullet; [C++](https://iscinumpy.dev/tags/cppxx)&nbsp;[11](https://iscinumpy.dev/post/cpp-11)&nbsp;[14](https://iscinumpy.dev/post/cpp-14)&nbsp;[17](https://iscinumpy.dev/post/cpp-17)&nbsp;[20](https://iscinumpy.dev/post/cpp-20)&nbsp;[23](https://iscinumpy.dev/post/cpp-23)
 
 #### My classes and books
 
@@ -34,7 +24,7 @@ Python [CPU](https://github.com/henryiii/python-performance-minicourse), [GPU](h
 [dependency-groups](https://github.com/pypa/dependency-groups) &bullet;
 [pyproject-metadata](https://github.com/pypa/pyproject-metadata) &bullet;
 [nox](https://nox.thea.codes) &bullet;
-[scikit-build](https://github.com/scikit-build/scikit-build) ([core](https://github.com/scikit-build/scikit-build-core), [cmake](https://github.com/scikit-build/cmake-python-distributions), [ninja](https://github.com/scikit-build/ninja-python-distributions), [moderncmakedomain](https://github.com/scikit-build/moderncmakedomain), [sample-projects](https://github.com/scikit-build/scikit-build-sample-projects)) &bullet;
+[scikit-build](https://scikit-build.org) ([classic](https://github.com/scikit-build/scikit-build), [core](https://github.com/scikit-build/scikit-build-core), [cmake](https://github.com/scikit-build/cmake-python-distributions), [ninja](https://github.com/scikit-build/ninja-python-distributions), [moderncmakedomain](https://github.com/scikit-build/moderncmakedomain), [sample-projects](https://github.com/scikit-build/scikit-build-sample-projects)) &bullet;
 [meson-python](https://github.com/mesonbuild/meson-python) &bullet;
 [boost-histogram](https://github.com/scikit-hep/boost-histogram) &bullet;
 [Hist](https://github.com/scikit-hep/hist) &bullet;
